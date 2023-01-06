@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#msg{
+    color: red;
+}
+    
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.app{
+    width: 20%;
+    left: 35%;
+    background-color: #fff;
+    margin: 200px auto;
+    border-radius: 20px;
+    padding: 25px;
+    min-width: 450px;
+    min-height: 150px;
+    position: absolute;
+    
+    
+}
+#addNew{
+    background-color: blanchedalmond;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#tasks{
+    border-radius: 5px;
+    background-color: bisque;
+    padding: 5px 10px;
+    border: 1px solid #939393;
+}
+
+
+
